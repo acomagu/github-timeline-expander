@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name        GitHub Timeline Expander
 // @namespace   acomagu/github-timeline-expander
-// @includes    https://github.com
+// @version     1.0.1
+// @include     https://github.com
 // ==/UserScript==
 
 new MutationObserver((mutationList, observer) => {
